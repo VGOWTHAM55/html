@@ -1,0 +1,76 @@
+.Start {
+  text-align: center;
+  font-size: 1.3em;
+  font-weight: 400;
+  color: whitesmoke;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.Rex {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.3em;
+  color: whitesmoke;
+  font-weight: 300;
+  padding: 10px;
+}
+#Recipe {
+  color: whitesmoke;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.3em;
+}
+
+.search {
+  border-radius: 7px;
+}
+#Incredient {
+  color: whitesmoke;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.3em;
+  font-weight: 400;
+}
+#Preparation {
+  color: whitesmoke;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.3em;
+  font-weight: 400;
+}
+#More_Recipies {
+  color: whitesmoke;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.3em;
+  font-weight: 100;
+}
+#More_Recipies {
+  color: whitesmoke;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: (1fr);
+  grid-column-gap: 1px;
+  grid-row-gap: 1px;
+}
+
+.Foot {
+  color: whitesmoke;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.3em;
+  font-weight: 400;
+}
+a {
+  color: whitesmoke;
+  text-decoration: none;
+  font-weight: bolder;
+}
+.end {
+  color: whitesmoke;
+  font-size: 1.3em;
+  font-weight: bold;
+  padding: 7px;
+  border-radius: 2rem;
+}
